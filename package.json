@@ -1,14 +1,14 @@
 {
-    "name": "Meswx-blog",
-    "title": "Meswx Blog",
-    "author": "Meswx <meswx@outlook.com>",
-    "version": "1.7.0",
-    "homepage": "http://meswx.github.io",
+    "name": "Garrett's-Blog",
+    "title": "Garrett's Blog",
+    "author": "Garrett <hannett.garrett@gmail.com>",
+    "version": "1.0",
+    "homepage": "https://higarrett.xyz",
     "repository": {
         "type": "git",
         "url": "https://github.com/Meswx/meswx.github.io"
     },
-    "bugs": "https://github.com/Meswx/meswx.github.io/issues",
+    "bugs": "https://github.com/higarrett/higarrett.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
