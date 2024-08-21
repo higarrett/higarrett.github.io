@@ -18,7 +18,7 @@
 
 title: Garrett's Blog 
 SEOTitle: Garrett's Blog
-header-img: img/home-bg_meswx.jpg # 这个定义了博客首页的顶部背景图，可以根据自己的喜好，设置不同的图
+header-img:  # 这个定义了博客首页的顶部背景图，可以根据自己的喜好，设置不同的图
 email: hannett.garrett@gmail.com
 description: "Your feature, your way. | Android Developer, Software Engineer | 这里是 @Meswx祥仔 的个人博客，互联网发声专属领地。" # 你的博客描述，这个内容不会显示在博客界面上，可以随便写点
 keyword: "祥仔, Meswx, @meswx, 祥仔的博客, 个人博客, 设计, Meswx Blog, Github, Jekyll, Developer" # 这里填博客的索引关键字，最好是英文，如：iPhone，多个关键字使用英文状态下的逗号隔开 
